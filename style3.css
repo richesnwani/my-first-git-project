@@ -1,0 +1,36 @@
+body{
+    background-color: rgb(106, 173, 6);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+
+#branding{
+    background-color: white;
+    text-align: center;
+    margin:200px  200px 200px 200px;
+    padding: 200px;
+
+}
+
+#branding{
+    border-color: rgb(10, 15, 15);
+    
+}
+
+input{
+    background-color: rgba(238, 233, 233, 0.808);
+    font-family: Arial, Helvetica, sans-serif;
+    border:100vh ;
+    padding: 8px;
+
+}
+
+button{
+    background-color: green;
+    padding: 5px;
+    color: white;
+    cursor: pointer;
+    margin: 9px;
+    width: 17%;
+
+}

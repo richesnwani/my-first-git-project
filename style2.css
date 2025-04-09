@@ -1,0 +1,50 @@
+body{
+    background-color: rgb(248, 244, 238);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+   padding: 0%;
+   border-radius: 20px;
+}
+
+header{
+    background-color: rgb(43, 43, 179);
+    padding: 18px;
+    color: white;
+    font-weight: bold;
+    border-radius: 20px;
+    display: flex;
+    justify-content: space-between;
+    
+    
+}
+
+section{
+    background-color: white;
+    border-radius: 18px;
+    padding: 18px;
+    margin: 20px;
+    border-style: outset;
+    box-shadow: rgb(250, 8, 8) rgb(124, 80, 13) inset;
+}
+h1, h2,h3{
+    color: rgb(72, 70, 73);
+}
+
+footer{
+    text-align: center;
+    background-color: brown;
+    padding: 10px;
+}
+
+header #branding{
+    float: right;
+}
+
+header nav{
+    float: right;
+}
+
+header li{
+    float: right;
+    display: inline;
+    padding: 0 20px 0 20px;
+}

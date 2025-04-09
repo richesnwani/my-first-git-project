@@ -1,0 +1,114 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: white;
+}
+
+header{
+    background-color:rgb(16, 16, 66);
+    color: white;
+    padding: 20px;
+    margin: 0;
+}    
+
+nav{
+    justify-content: space-between;
+    top: 0;
+    right: 0;
+    list-style: none;
+    margin: 0;
+    padding: 10px;
+    display: flex;
+    gap: 15px;
+    color: white;
+}
+
+nav li{
+    display: inline;
+    justify-content: space-between;
+
+}
+
+nav a{
+    text-decoration: none;
+    padding: 10px;
+    border-radius: 5px;
+    justify-content: space-between;
+    color: white;
+
+}
+
+#branding{
+    background: url("../img/background.jpg")no-repeat;
+   min-height:600px;
+    padding: 10px;
+    text-align: center;
+    color: white;
+    background-size: cover;
+}
+
+#branding h3{
+ font-size: xx-large;
+ padding: 100px;
+}
+
+
+
+#branding button{
+    background-color: rgb(214, 97, 1);
+    color: white;
+    padding: 9px;
+    border-radius: 6px;
+}
+
+.cost{
+    background-color:rgb(0, 0, 0,.5);
+    margin: 100px 300px 0 300px;
+    padding-bottom: 10px;
+}
+
+.our h3{
+    color: rgb(9, 97, 212);
+}
+
+#branding p{
+    font-style: oblique;
+    font-size: medium;
+
+}
+
+.cost ul, li{
+    list-style: circle;
+}
+
+.About h3{
+    color: green;
+}
+
+.contact h3{
+    color: darkred;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+footer{
+    text-align: center;
+    background: rgb(16, 16, 66);
+    padding: 10px;
+}
